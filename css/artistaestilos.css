@@ -1,0 +1,38 @@
+.artista h1{
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+.contenido{padding: 10px;}
+
+header nav ul {
+    background-color: gray;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding: 10px;
+    margin: 0;
+    gap: 30px; /* Espacio entre los elementos del menú */
+}
+body{
+    margin: 0;
+    background-color: rgb(123, 132, 139);
+}
+header{
+    margin-bottom: 30px;
+}
+header nav ul li {
+    padding: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    font-weight: bolder;
+    color: white;
+}
+
+article{
+    font-size: x-large;
+    font-weight: bold;
+}
+footer{
+    padding: 10px;
+}
